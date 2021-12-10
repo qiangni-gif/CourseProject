@@ -1,0 +1,7 @@
+pandas
+nltk
+spacy
+sklearn
+seaborn
+wordcloud
+openpyxl
