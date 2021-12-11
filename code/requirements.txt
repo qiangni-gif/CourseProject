@@ -1,3 +1,6 @@
+ipython
+jupyter
+ipykernel
 pandas
 nltk
 spacy
